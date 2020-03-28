@@ -4,8 +4,7 @@ post_title: Supplier
 author: Laurent Breleur
 post_excerpt: ""
 layout: page
-permalink: >
-  http://pandemicrtsupplies.com/auto-draft/
+permalink: http://pandemicrtsupplies.com/supplier/
 published: true
 post_date: 2020-03-27 23:07:26
 ---
