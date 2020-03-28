@@ -1,6 +1,6 @@
 ---
 ID: 2349
-post_title: Supplier Intake Form
+post_title: Supplier
 author: Laurent Breleur
 post_excerpt: ""
 layout: page
