@@ -1,11 +1,11 @@
 ---
 ID: 1571
 post_title: Masonry Blog
-author: Jon Gosier
+author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://pandemicrtsupplies.com/masonry-blog/
+  http://ec2-3-92-30-99.compute-1.amazonaws.com/masonry-blog/
 published: true
 post_date: 2017-03-01 08:37:18
 ---
