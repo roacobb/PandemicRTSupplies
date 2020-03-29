@@ -1,11 +1,11 @@
 ---
 ID: 2288
 post_title: Sample Page
-author: Jon Gosier
+author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://pandemicrtsupplies.com/sample-page-2/
+  http://ec2-3-92-30-99.compute-1.amazonaws.com/sample-page-2/
 published: true
 post_date: 2017-01-23 10:02:22
 ---
