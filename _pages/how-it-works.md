@@ -1,11 +1,11 @@
 ---
 ID: 1742
 post_title: How It Works
-author: Jon Gosier
+author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://pandemicrtsupplies.com/how-it-works-page/how-it-works/
+  http://ec2-3-92-30-99.compute-1.amazonaws.com/how-it-works-page/how-it-works/
 published: true
 post_date: 2017-03-13 22:28:39
 ---
