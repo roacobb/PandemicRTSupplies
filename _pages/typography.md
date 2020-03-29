@@ -1,11 +1,11 @@
 ---
 ID: 1620
 post_title: Typography
-author: Jon Gosier
+author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://pandemicrtsupplies.com/typography/
+  http://ec2-3-92-30-99.compute-1.amazonaws.com/typography/
 published: true
 post_date: 2017-03-09 12:17:20
 ---
