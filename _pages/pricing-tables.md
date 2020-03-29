@@ -1,11 +1,11 @@
 ---
 ID: 1719
 post_title: Pricing Tables
-author: Jon Gosier
+author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://pandemicrtsupplies.com/pricing-tables/
+  http://ec2-3-92-30-99.compute-1.amazonaws.com/pricing-tables/
 published: true
 post_date: 2017-03-13 09:33:44
 ---
