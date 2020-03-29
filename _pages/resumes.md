@@ -1,10 +1,11 @@
 ---
 ID: 1956
 post_title: Resumes
-author: Jon Gosier
+author: user
 post_excerpt: ""
 layout: page
-permalink: http://pandemicrtsupplies.com/resumes/
+permalink: >
+  http://ec2-3-92-30-99.compute-1.amazonaws.com/resumes/
 published: true
 post_date: 2017-06-03 15:18:29
 ---
