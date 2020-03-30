@@ -5,7 +5,7 @@ author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://pandemicrtsupplies.com/sample-page/
+  https://pandemicrtsupplies.com/sample-page/
 published: true
 post_date: 2020-02-20 14:37:52
 ---
